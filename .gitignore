@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.db
+*.opendb
+*.db
+*.db
+*.db
