@@ -1,7 +1,4 @@
 
-// TestProjectDlg.h : 헤더 파일
-//
-
 #pragma once
 
 
