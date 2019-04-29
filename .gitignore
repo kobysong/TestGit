@@ -73,3 +73,5 @@ Source/TestProject/TestProject/Debug/TestProject.tlog/rc.write.1.tlog
 Source/TestProject/TestProject/Debug/TestProject.tlog/TestProject.lastbuildstate
 Source/TestProject/TestProject/Debug/vc140.idb
 Source/TestProject/TestProject/Debug/vc140.pdb
+*.ilk
+*.pdb
